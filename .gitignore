@@ -1,0 +1,3 @@
+*.deb
+*.tar.gz
+data/usr/local/bin/coreos-ipxe-server

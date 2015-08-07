@@ -1,0 +1,8 @@
+Package: coreos-ipxe-server
+Version: 0.3.0-1
+Architecture: amd64
+Section: net
+Maintainer: Kamil Domanski <kamil@domanski.co>
+Priority: extra
+Description: iPXE server for booting CoreOS cluster
+Built: czw, 6 sie 2015, 23:05:32 CEST

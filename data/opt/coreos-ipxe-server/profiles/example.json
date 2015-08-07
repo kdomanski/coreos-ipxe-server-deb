@@ -1,0 +1,6 @@
+{
+  "rootfstype": "btrfs",
+  "sshkey": "example-key",
+  "version": "0.0.0",
+  "cloud_config": "example-cloud-config"
+}

@@ -1,0 +1,8 @@
+[Unit]
+Description=CoreOS iPXE server
+
+[Service]
+ExecStart=/usr/local/bin/coreos-ipxe-server
+
+[Install]
+WantedBy=multi-user.target
